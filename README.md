@@ -13,10 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/soumyaworks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" alt="soumyaworks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumya-banerjee-30a4a5180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="soumya-banerjee-30a4a5180" height="30" width="40" /></a>
+<a href="https://fb.com/soumya.banerjee.1698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="soumya.banerjee.1698" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tourist1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tourist1998" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/soumya_banerjee1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="soumya_banerjee1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumya_banerjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="soumya_banerjee" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@soumya.banerjee98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" alt="@soumya.banerjee98" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/soumyabanerjee/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="soumyabanerjee/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
