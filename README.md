@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **soumya.banerjee98@gmail.com**
 
-- ⚡ Fun fact **Love playing chess, reading story books**
+- ⚡ Fun fact : **Love playing chess, reading story books**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://codepen.io/soumyaworks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" alt="soumyaworks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumya-banerjee-30a4a5180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="soumya-banerjee-30a4a5180" height="30" width="40" /></a>
