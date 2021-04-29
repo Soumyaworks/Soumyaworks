@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact : **Love playing chess, reading story books**
 
+### Spotify Playing 🎧
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xt6q764nzqa5lhjryjc52iygsm)
+
 <h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://codepen.io/soumyaworks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" alt="soumyaworks" height="30" width="40" /></a>
