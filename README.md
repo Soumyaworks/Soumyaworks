@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A software developer, sport programmer, engineer in the making</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **building systems instead of goals for myself**
 
-- 🌱 I’m currently learning **Android development, Angular**
+- 🌱 I’m currently learning **Machine Learning, Compilers, DSA, Touch typing, Chess**
 
-- 💬 Ask me about **Competitive Programming,DSA**
+- 💬 Ask me about **Programming, movies, songs, web series and astronomy**
 
 - 📫 How to reach me **soumya.banerjee98@gmail.com**
 
-- ⚡ Fun fact : **Love playing chess, reading story books**
+- ⚡ Fun fact : **7 people in the world control the Internet. (Google about ICANN and the key ceremony)**
 
 ### Spotify Playing 🎧
 
