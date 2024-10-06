@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **soumya.banerjee98@gmail.com**
 
-- ⚡ Fun fact : **7 people in the world control the Internet. (Google about ICANN and the key ceremony)**
+- ⚡ Fun fact : **The first computer bug was a real bug - a moth stuck in computer systems at Harvard University in 1947**
 
 ### Spotify Playing 🎧
 
