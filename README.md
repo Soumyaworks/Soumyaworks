@@ -23,6 +23,9 @@
   <a href="https://www.instagram.com/dweep_banerjee" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://x.com/Soumyaworks" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
   <a href="https://fb.com/soumya.banerjee.1698" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
